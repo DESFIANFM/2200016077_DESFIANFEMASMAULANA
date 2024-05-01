@@ -1,4 +1,6 @@
-# 2200016077_DESFIANFEMASMAULANA
-DESFIAN FEMAS MAULANA
+# MDC-100 Series of Codelabs
 
-PRAKTIKUM TEKMOB
+## Getting Started
+
+For help getting started with Flutter, view our online
+[documentation](https://flutter.io/).
